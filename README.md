@@ -37,7 +37,8 @@ Nosso mural online visa facilitar o compartilhamento de avisos e mensagens de ma
 	Ao fazer isso, a senha de administrador será solicitada (atualmente **1234** para fins acadêmicos) e, após ser inserida, todo o mural será deletado.
 
 ![Deletando](https://i.ibb.co/5szLC3s/deletando-mural.png)
-	E então, o Mural exibirá a seguinte mensagem:
+	
+E então, o Mural exibirá a seguinte mensagem:
 
 ![Sem Posts](https://i.ibb.co/310jk0C/sem-posts.png)
 
