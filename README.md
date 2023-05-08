@@ -1,5 +1,7 @@
 # Mural Online - Projeto de Redes de Computadores
 
+![Tela inicial](https://i.ibb.co/x2v7y3n/mural-online.png)
+
 Nosso mural online visa facilitar o compartilhamento de avisos e mensagens de maneira prática e ágil. Nele, é possível postar avisos, exibir todos os aviso já postados e excluir todo o mural (apenas quem possuir a senha de administrador).
 
 ## Como utilizar?
@@ -13,8 +15,6 @@ Nosso mural online visa facilitar o compartilhamento de avisos e mensagens de ma
 - Após checar se os passos anteriores estão todos feitos, pode **executar** o `server.py` (para acompanhar o andamento do servidor durante a utilização da aplicação) e o `client.py` (pode ser aberto mais de uma vez, pois a aplicação suporta múltiplos clientes simultâneos).
 
 > ### Funcionalidades
-
-![Tela inicial](https://i.ibb.co/x2v7y3n/mural-online.png)
 
 - **Postar no Mural**
 
