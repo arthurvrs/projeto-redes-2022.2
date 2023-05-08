@@ -3,7 +3,7 @@ from threading import Thread
 from dataBase.dataBase import setPost, returnPosts, resetBase
 
 #Definição dos Dados Fixos da Aplicação
-NameServer = 'Servidor Mural'
+NameServer = 'Mural Online'
 ADDR = 'localhost'
 PORT = 8000
 
